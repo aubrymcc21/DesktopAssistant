@@ -7,3 +7,5 @@ This is a work-in-progress to create a desktop assistant. The functionality requ
 - Web browsing
 - Email & messaging
 - Entertainment
+
+Note: There is no guarantee this project will run! Test at your own risk!
