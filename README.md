@@ -1,5 +1,5 @@
 # DesktopAssistant
-This is a work-in-progress to create a desktop assistant. The functionality requirements of this desktop assistant include:
+This is a work-in-progress to create a desktop assistant. The functionality requirements of this desktop assistant will include:
 
 - Voice & text interaction
 - Information retrieval
