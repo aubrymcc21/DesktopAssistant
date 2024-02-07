@@ -14,8 +14,8 @@ def speak(text):
     engine.runAndWait()
 
 def get_weather(city):
-    # Function to get weather updates (Replace with your preferred weather API)
-    # This is a placeholder function and will not work without a valid API key.
+    # Function to get weather updates (Replace with preferred weather API)
+    # This is a placeholder function and needs a valid API key!
     return f"The weather in {city} is sunny."
 
 def search_wikipedia(query):
